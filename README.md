@@ -1,2 +1,2 @@
 # Web-Server
-Displays Products with corresponding ID and quantity # on a web server.
+Displays Products from an SQL database with corresponding ID and quantity # on a web server.
